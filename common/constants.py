@@ -1,5 +1,9 @@
 MODEL_TIME_INTERVAL_SECONDS = 60 * 60 * 24 * 7  # 1 week
 
+HECTARES = "ha"
+DECARES = "da"
+M2 = "m2"
+
 DATE_COL = "Date"
 DATE_FORMAT = "%Y-%m-%d"
 
