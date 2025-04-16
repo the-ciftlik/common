@@ -4,6 +4,8 @@ HECTARE = "ha"
 DECARE = "da"
 M2 = "m2"
 
+MAX_CROPS = 5
+
 DATE_COL = "Date"
 DATE_FORMAT = "%Y-%m-%d"
 
