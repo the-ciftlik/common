@@ -6,29 +6,29 @@ M2 = "m2"
 
 MAX_CROPS = 5
 
-DATE_COL = "Date"
+DATE_COL = "date"
 DATE_FORMAT = "%Y-%m-%d"
 
-SEED_PRICE_COL = "Seed Price"
+SEED_PRICE_COL = "seed_price"
 
-PLANTING_LABOR_PRICE_COL = "Planting Labor Price"
-MAINTENANCE_LABOR_PRICE_COL = "Maintenance Labor Price"
-HARVESTING_LABOR_PRICE_COL = "Harvesting Labor Price"
+PLANTING_LABOR_PRICE_COL = "planting_labor_price"
+MAINTENANCE_LABOR_PRICE_COL = "maintenance_labor_price"
+HARVESTING_LABOR_PRICE_COL = "harvesting_labor_price"
 
-MACHINERY_PRICE_COL = "Machinery Price"
+MACHINERY_PRICE_COL = "machinery_price"
 
-# N_FERTILIZER_PRICE_COL = "Nitrogen Fertilizer Price"
-# P_FERTILIZER_PRICE_COL = "Phosphorus Fertilizer Price"
-# K_FERTILIZER_PRICE_COL = "Potassium Fertilizer Price"
-FERTILIZER_PRICE_COL = "Fertilizer Price"
+# N_FERTILIZER_PRICE_COL = "nitrogen_fertilizer_price"
+# P_FERTILIZER_PRICE_COL = "phosphorus_fertilizer_price"
+# K_FERTILIZER_PRICE_COL = "potassium_fertilizer_price"
+FERTILIZER_PRICE_COL = "fertilizer_price"
 
-PESTICIDE_PRICE_COL = "Pesticide Price"
+PESTICIDE_PRICE_COL = "pesticide_price"
 
-TRANSPORTATION_PRICE_COL = "Transportation Price"
+TRANSPORTATION_PRICE_COL = "transportation_price"
 
-IRRIGATION_PRICE_COL = "Irrigation Price"
+IRRIGATION_PRICE_COL = "irrigation_price"
 
-MARKET_PRICE_COL = "Market Price"
+MARKET_PRICE_COL = "market_price"
 
 # !! WEATHER FILE IS NOT IMPLEMENTED YET
 
